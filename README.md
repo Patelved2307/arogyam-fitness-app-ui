@@ -1,6 +1,8 @@
 # arogyam-fitness-app-ui
 A modern fitness application UI/UX design focused on workouts, progress tracking, and personalized fitness experience.
 # 🏋️ Fitness Application UI/UX Design
+## 🔗 Figma Design
+[View Design on Figma](https://www.figma.com/design/MXYmlKumXn4NLR6eIs9SPd/fitness-app?node-id=0-1&t=JdXvxR7r22aqmlNN-1)
 
 A modern and user-friendly fitness application UI/UX design focused on personalized workouts, progress tracking, and healthy lifestyle motivation.
 
